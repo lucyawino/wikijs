@@ -1,8 +1,8 @@
 ---
-title: Home
+title: home
 description: This is a test homepage to see if the theme customization has been effective
 published: true
-date: 2026-04-20T09:35:31.320Z
+date: 2026-04-20T12:48:44.919Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-31T08:46:10.689Z
